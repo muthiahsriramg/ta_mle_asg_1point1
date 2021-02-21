@@ -330,4 +330,167 @@ Enumerating objects: 8, done.
 Counting objects:  12% (1/8)Counting objects:  25% (2/8)Counting objects:  37% (3/8)Counting objects:  50% (4/8)Counting objects:  62% (5/8)Counting objects:  75% (6/8)Counting objects:  87% (7/8)Counting objects: 100% (8/8)Counting objects: 100% (8/8), done.
 Delta compression using up to 12 threads
 Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
-Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 5.86 KiB | 1.17 MiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+   fc668e9..7012e99  main -> main
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git push originconfig credential.helper store--list[K
+[?1h=user.name=muthiahsriram[m
+user.email=muthiahsriram@gmail.com[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+remote.origin.url=https://github.com/muthiahsriramg/ta_mle_asg_1point1.git[m
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*[m
+branch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+user.name=muthiah.sriram@tigeranalytics.com[m
+user.password=3UBdFzT2f3QGaNY[m
+credential.helper=store[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git config --list[Kgit push
+Everything up-to-date
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git push[K[K[K[K[K[K[K[Ktouch pipeline.txt[K[K[K[K[K[K[K[Ks_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat pipes+[K_and_filters.txt 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   working_with_files_directories.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mpipes_and_filters.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git add .
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git commit -m "just_checking"
+[main 73ace22] just_checking
+ 2 files changed, 185 insertions(+), 1 deletion(-)
+ create mode 100644 pipes_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git push
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 12 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 2.63 KiB | 2.63 MiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+   7012e99..73ace22  main -> main
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ git congi[K[K[K[K[K[K[K[K[Kscree[K[K[Kript -a pa[Kipes_and_filters.txt 
+Script started, file is pipes_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ c[Kwc README.md 
+ 2  3 40 README.md
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat[K[K[Knano Re[KEADME.md 
+[?2004h[?1049h[22;0;0t[1;54r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[52;95H(B[0;7m[ Reading... ](B[m[52;94H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                     README.md                                                                                               [1;202H(B[m[53d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[53;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[53;177H(B[0;7m^◀(B[m Prev Word[54d(B[0;7m^X(B[m Exit[54;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[54;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[54;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[52d[2d[39;49m[36m# ta_mle_asg_1point1[3d[39m(B[mta_mle_asg_1point1[A[?12l[?25h[?25l[52d[J[54d[?12l[?25h[54;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc *.txt
+  258  1615 20305 navigating_files_and_directories.txt
+    0     0     0 pipes_and_filters.txt
+  383  2715 53248 working_with_files_directories.txt
+  641  4330 73553 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc *.txt- *.txtl *.txt[1@ 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc -l *.txt > legnth[K[K[K[K[K[Ktest_len[Kngth.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_length.txt 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ la
+[0m[01;34m.git[0m  .gitignore  navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_length.txt 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -[Ktest_
+test_directory/  test_length.txt  
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt 
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt [C[1@ [1@-[1@n[C[1@ 
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n  test_length.txt [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt [Ksort -n lengths.txt | head -n 1
+sort: cannot read: lengths.txt: No such file or directory
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n lengths.txt | head -n 1[1@t[1@e[1@s[1@t[1@_
+sort: cannot read: test_lengths.txt: No such file or directory
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n test_lengths.txt | head -n 1[1P
+    0 pipes_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nanp test_anin[Kmals.txt
+
+Command 'nanp' not found, did you mean:
+
+  command 'nano' from snap nano (5.2+pkg-7d56)
+  command 'nano' from deb nano (4.8-1ubuntu1)
+  command 'nant' from deb nant (0.92~rc1+dfsg-7)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nanp test_animals.txt[1P test_animals.txtp test_animals.txt[1P test_animals.txto test_animals.txt[C test_animals.txt[C[1Ptest_animals.txt
+[?2004h[?1049h[22;0;0t[1;54r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[52;96H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                                                 test_animals.txt                                                                                            [1;202H(B[m[53d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[53;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[53;177H(B[0;7m^◀(B[m Prev Word[54d(B[0;7m^X(B[m Exit[54;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[54;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[54;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[52d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[1;194H(B[0;7mModified[52d(B[m[K[1;202H[2d2012-11-05,deer[3d2012-11-05,rabbit[4d2012-11-05,raccoon[5d2012-11-06,rabbit[6d2012-11-06,deer[7d2012-11-06,fox[8d2012-11-07,rabbit[9d2012-11-07,bear[?12l[?25h[?25l[52d(B[0;7mSave modified buffer?                                                                                                                                                                                      [53;1H Y(B[m Yes[K[54d(B[0;7m N(B[m No  [54;18H(B[0;7mC(B[m Cancel[K[52;23H[?12l[?25h[?25l[53d(B[0;7m^G(B[m Get Help[53;51H(B[0;7mM-D(B[m DOS Format[53;101H(B[0;7mM-A(B[m Append[53;151H(B[0;7mM-B(B[m Backup File[54d(B[0;7m^C(B[m Cancel[17G         [54;51H(B[0;7mM-M(B[m Mac Format[54;101H(B[0;7mM-P(B[m Prepend[54;151H(B[0;7m^T(B[m To Files[52d(B[0;7mFile Name to Write: test_animals.txt(B[m[52;37H[?12l[?25h[?25l[52;94H[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[52;94H(B[0;7m[ Wrote 8 lines ](B[m[J[54d[?12l[?25h[54;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nano test_animals.txt[Knano test_animals.txt[C[1P test_animals.txt[1P test_animals.txt[1P test_animals.txt[1P test_animals.txtc test_animals.txta test_animals.txtt test_animals.txt
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-06,fox
+2012-11-07,rabbit
+2012-11-07,bear
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt | head -n 5|tai[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-06,fox
+2012-11-07,rabbit
+2012-11-07,bear
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt |head -n 6[K5
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt |head -n 5|tail = 3[K[K[K-3
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ exit
+exit
+Script done, file is pipes_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ got[K[Kit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   pipes_and_filters.txt[m
+	[31mmodified:   working_with_files_directories.txt[m
+
+no ch

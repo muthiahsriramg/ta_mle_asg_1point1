@@ -1,0 +1,99 @@
+Script started on 2021-02-22 02:44:05+08:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="203" LINES="54"]
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ c[Kwc README.md 
+ 2  3 40 README.md
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat[K[K[Knano Re[KEADME.md 
+[?2004h[?1049h[22;0;0t[1;54r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[52;95H(B[0;7m[ Reading... ](B[m[52;94H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                     README.md                                                                                               [1;202H(B[m[53d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[53;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[53;177H(B[0;7m^◀(B[m Prev Word[54d(B[0;7m^X(B[m Exit[54;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[54;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[54;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[52d[2d[39;49m[36m# ta_mle_asg_1point1[3d[39m(B[mta_mle_asg_1point1[A[?12l[?25h[?25l[52d[J[54d[?12l[?25h[54;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc *.txt
+  258  1615 20305 navigating_files_and_directories.txt
+    0     0     0 pipes_and_filters.txt
+  383  2715 53248 working_with_files_directories.txt
+  641  4330 73553 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc *.txt- *.txtl *.txt[1@ 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ wc -l *.txt > legnth[K[K[K[K[K[Ktest_len[Kngth.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_length.txt 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ la
+[0m[01;34m.git[0m  .gitignore  navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ ls
+navigating_files_and_directories.txt  pipes_and_filters.txt  README.md  test  [0m[01;34mtest_directory[0m  test_length.txt  working_with_files_directories.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_length.txt 
+  258 navigating_files_and_directories.txt
+    0 pipes_and_filters.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -[Ktest_
+test_directory/  test_length.txt  
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt 
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt [C[1@ [1@-[1@n[C[1@ 
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n  test_length.txt [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+    0 pipes_and_filters.txt
+  258 navigating_files_and_directories.txt
+  383 working_with_files_directories.txt
+  641 total
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort test_length.txt [Ksort -n lengths.txt | head -n 1
+sort: cannot read: lengths.txt: No such file or directory
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n lengths.txt | head -n 1[1@t[1@e[1@s[1@t[1@_
+sort: cannot read: test_lengths.txt: No such file or directory
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ sort -n test_lengths.txt | head -n 1[1P
+    0 pipes_and_filters.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nanp test_anin[Kmals.txt
+
+Command 'nanp' not found, did you mean:
+
+  command 'nano' from snap nano (5.2+pkg-7d56)
+  command 'nano' from deb nano (4.8-1ubuntu1)
+  command 'nant' from deb nant (0.92~rc1+dfsg-7)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nanp test_animals.txt[1P test_animals.txtp test_animals.txt[1P test_animals.txto test_animals.txt[C test_animals.txt[C[1Ptest_animals.txt
+[?2004h[?1049h[22;0;0t[1;54r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[52;96H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                                                 test_animals.txt                                                                                            [1;202H(B[m[53d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[53;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[53;177H(B[0;7m^◀(B[m Prev Word[54d(B[0;7m^X(B[m Exit[54;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[54;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[54;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[52d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[1;194H(B[0;7mModified[52d(B[m[K[1;202H[2d2012-11-05,deer[3d2012-11-05,rabbit[4d2012-11-05,raccoon[5d2012-11-06,rabbit[6d2012-11-06,deer[7d2012-11-06,fox[8d2012-11-07,rabbit[9d2012-11-07,bear[?12l[?25h[?25l[52d(B[0;7mSave modified buffer?                                                                                                                                                                                      [53;1H Y(B[m Yes[K[54d(B[0;7m N(B[m No  [54;18H(B[0;7mC(B[m Cancel[K[52;23H[?12l[?25h[?25l[53d(B[0;7m^G(B[m Get Help[53;51H(B[0;7mM-D(B[m DOS Format[53;101H(B[0;7mM-A(B[m Append[53;151H(B[0;7mM-B(B[m Backup File[54d(B[0;7m^C(B[m Cancel[17G         [54;51H(B[0;7mM-M(B[m Mac Format[54;101H(B[0;7mM-P(B[m Prepend[54;151H(B[0;7m^T(B[m To Files[52d(B[0;7mFile Name to Write: test_animals.txt(B[m[52;37H[?12l[?25h[?25l[52;94H[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[52;94H(B[0;7m[ Wrote 8 lines ](B[m[J[54d[?12l[?25h[54;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ nano test_animals.txt[Knano test_animals.txt[C[1P test_animals.txt[1P test_animals.txt[1P test_animals.txt[1P test_animals.txtc test_animals.txta test_animals.txtt test_animals.txt
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-06,fox
+2012-11-07,rabbit
+2012-11-07,bear
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt | head -n 5|tai[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-06,fox
+2012-11-07,rabbit
+2012-11-07,bear
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt |head -n 6[K5
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ cat test_animals.txt |head -n 5|tail = 3[K[K[K-3
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/ta_mle_asg_1point1[00m$ exit
+exit
+
+Script done on 2021-02-22 02:59:25+08:00 [COMMAND_EXIT_CODE="0"]
