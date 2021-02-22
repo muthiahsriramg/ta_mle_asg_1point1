@@ -2,5 +2,5 @@
 # ignore folders and files starting with test
 test*
 original*
-
+*.save
 
