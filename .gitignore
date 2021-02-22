@@ -1,5 +1,6 @@
 
-# ignore folders starting with test
+# ignore folders and files starting with test
 test*
+original*
 
 
