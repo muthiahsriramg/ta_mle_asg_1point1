@@ -7,3 +7,5 @@ ta_mle_asg_1point1
 	i)   simple overall git flow
 	ii)  git log, git diff, remote work flow, tags
 	iii) git branching
+	
+3) The recordings are there in the recordings folder
