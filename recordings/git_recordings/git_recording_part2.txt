@@ -1,0 +1,791 @@
+Script started on 2021-02-22 13:15:25+08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="203" LINES="56"]
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #git commit history
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log
+[?1h=[33mcommit e69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+[33mcommit 518d9be125bc87eba5a22eebf97a0847fa70c76b[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:02:23 2021 +0800[m
+[m
+    one simple change cycle[m
+[m
+[33mcommit 73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:52:37 2021 +0800[m
+[m
+    restructuring folder -2[m
+[m
+[33mcommit 7d1004c2f658f4612a6aef01311b1fff496a8b7d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:16:27 2021 +0800[m
+[m
+    restructuring folders[m
+[m
+[33mcommit 9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:13:20 2021 +0800[m
+[m
+    finding_stuff[m
+[m
+[33mcommit 0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 10:48:14 2021 +0800[m
+[m
+    scripting[m
+[m
+[33mcommit 7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 09:03:18 2021 +0800[m
+[m
+    loops.txt[m
+[m
+[33mcommit 2ff4785d0939236f2148a09738ccd2809041cde8[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 03:00:03 2021 +0800[m
+[m
+    pipies and filters[m
+[m
+[33mcommit 73ace223580b0c9692aecd0fc63c1ddca7e03db3[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 02:43:01 2021 +0800[m
+[m
+    just_checking[m
+[m
+[33mcommit 7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:03:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    working with files and directories[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit fc668e9b55cc755fa20df92fd0ae5b6c364f8276[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:55:17 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    navigating files and directory[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 042c1308abcec06239b5b8fa39687747df16379e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriramg <43805454+muthiahsriramg@users.noreply.github.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:29:09 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log -p -2[K1
+[?1h=[33mcommit e69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+[1mdiff --git a/recordings/git_recordings/one_simple_push_cycle b/recordings/git_recordings/one_simple_push_cycle[m[m
+[1mindex 7a73c71..99634c5 100644[m[m
+[1m--- a/recordings/git_recordings/one_simple_push_cycle[m[m
+[1m+++ b/recordings/git_recordings/one_simple_push_cycle[m[m
+[36m@@ -50,4 +50,113 @@[m [mUntracked files:[m[m
+        [31m./[m[m[m
+ [m[m
+ no changes added to commit (use "git add" and/or "git commit -a")[m[m
+[31m-(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordin[m [32m[m[32m[01;32m[00m[01;34mgs[00m$ git add .[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordin[m [32m[m[32m[01;32m[00m[01;34mgs[00m$ gits tatus[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mCommand 'gits' not found, did you mean:[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitls' from snap gitls (1.0.0)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitg' from deb gitg (3.32.1-1)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'git' from deb git (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gist' from deb yorick (2.2.04+dfsg1-10)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitps' from deb gnuit (4.9.5-3build3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mSee 'snap info <snapname>' for additional versions.[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordin[m [32m[m[32m[01;32m[00m[01;34mgs[00m$ gits status[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mCommand 'gits' not found, did you mean:[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitls' from snap gitls (1.0.0)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'git' from deb git (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitps' from deb gnuit (4.9.5-3build3)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gist' from deb yorick (2.2.04+dfsg1-10)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  command 'gitg' from deb gitg (3.32.1-1)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mSee 'snap info <snapname>' for additional versions.[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordin[m [32m[m[32m[01;32m[00m[01;34mgs[00m$ git[m[41m[7m^M[27m[m[m
+[32m+[m[32mOn branch main[m[41m[7m^M[27m[m[m
+[32m+[m[32mYour branch is up to date with 'origin/main'.[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mChanges to be committed:[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git restore --staged <file>..." to unstage)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mnew file:   one_simple_push_cycle[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git add <file>..." to update what will be committed)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   ../../.gitignore[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   ../../README.md[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordin[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32m[00m[01;34mgs[00m$ cd ../..[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ gits status[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mCommand 'gits' not found, did you mean:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gitls' from snap gitls (1.0.0)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'git' from deb git (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gitps' from deb gnuit (4.9.5-3build3)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gitg' from deb gitg (3.32.1-1)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  command 'gist' from deb yorick (2.2.04+dfsg1-10)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mSee 'snap info <snapname>' for additional versions.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git status[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mOn branch main[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYour branch is up to date with 'origin/main'.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges to be committed:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore --staged <file>..." to unstage)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mnew file:   recordings/git_recordings/one_simple_push_cycle[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git add <file>..." to update what will be committed)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   .gitignore[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   README.md[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git add .[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git status[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mOn branch main[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYour branch is up to date with 'origin/main'.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges to be committed:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore --staged <file>..." to unstage)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mmodified:   .gitignore[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mmodified:   README.md[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mnew file:   recordings/git_recordings/one_simple_push_cycle[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git add <file>..." to update what will be committed)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   recordings/git_recordings/one_simple_push_cycle[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ [7m^G[27mgit commit -m "one simple change cycle"[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[main 518d9be] one simple change cycle[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m 3 files changed, 60 insertions(+)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m create mode 100644 recordings/git_recordings/one_simple_push_cycle[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git push[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mfatal: unable to access 'https://github.com/muthiahsriramg/ta_mle_asg_1point1.git/': server certificate verification failed. CAfile: none CRLfile: none[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git push origin[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mfatal: unable to access 'https://github.com/muthiahsriramg/ta_mle_asg_1point1.git/': server certificate verification failed. CAfile: none CRLfile: none[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ [7m^G[27mgit push origin[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mEnumerating objects: 11, done.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mCounting objects:   9% (1/11)[7m^M[27mCounting objects:  18% (2/11)[7m^M[27mCounting objects:  27% (3/11)[7m^M[27mCounting objects:  36% (4/11)[7m^M[27mCounting objects:  45% (5/11)[7m^M[27mCounting objects:  54% (6/11)[7m^M[27mCounting objects[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m:  63% (7/11)[7m^M[27mCounting objects:  72% (8/11)[7m^M[27mCounting objects:  81% (9/11)[7m^M[27mCounting objects:  90% (10/11)[7m^M[27mCounting objects: 100% (11/11)[7m^M[27mCounting objects: 100% (11/11), done.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mDelta compression using up to 12 threads[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mCompressing objects:  16% (1/6)[7m^M[27mCompressing objects:  33% (2/6)[7m^M[27mCompressing objects:  50% (3/6)[7m^M[27mCompressing objects:  66% (4/6)[7m^M[27mCompressing objects:  83% (5/6)[7m^M[27mCompressing objects: 100% (6/6)[7m^M[27mComp[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32mressing objects: 100% (6/6), done.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mWriting objects:  14% (1/7)[7m^M[27mWriting objects:  28% (2/7)[7m^M[27mWriting objects:  42% (3/7)[7m^M[27mWriting objects:  57% (4/7)[7m^M[27mWriting objects:  71% (5/7)[7m^M[27mWriting objects:  85% (6/7)[7m^M[27mWriting objects: 100% (7/7)[m
+:[K[K [KESCESC[KOO[KBB[K[32m[m[32m[7m^M[27mWriting objects: 100% (7/7), 2.44 KiB | 2.44 MiB/s, done.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mTotal 7 (delta 1), reused 0 (delta 0)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mremote: Resolving deltas:   0% (0/1)[7m^M[27mremote: Resolving deltas: 100% (1/1)[7m^M[27mremote: Resolving deltas: 100% (1/1), completed with 1 local object.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mTo https://github.com/muthiahsriramg/ta_mle_asg_1point1.git[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m   73d0a7a..518d9be  main -> main[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m(base) 0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[7m^G[27m[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ [7m^G[27mexit[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mexit[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mScript done on 2021-02-22 13:13:06+08:00 [COMMAND_EXIT_CODE="0"][m[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log -p -1[K[K[K[K[K[K --stat
+[?1h=[33mcommit e69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+ recordings/git_recordings/one_simple_push_cycle | 111 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m-[m[m
+ 1 file changed, 110 insertions(+), 1 deletion(-)[m
+[m
+[33mcommit 518d9be125bc87eba5a22eebf97a0847fa70c76b[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:02:23 2021 +0800[m
+[m
+    one simple change cycle[m
+[m
+ .gitignore                                      |  3 [32m+++[m[m
+ README.md                                       |  4 [32m++++[m[m
+ recordings/git_recordings/one_simple_push_cycle | 53 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+ 3 files changed, 60 insertions(+)[m
+[m
+[33mcommit 73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:52:37 2021 +0800[m
+[m
+    restructuring folder -2[m
+[m
+ recordings/{ => linux_recordings}/finding_stuff.txt                    | 0[m
+ recordings/{ => linux_recordings}/loops.txt                            | 0[m
+ recordings/{ => linux_recordings}/navigating_files_and_directories.txt | 0[m
+ recordings/{ => linux_recordings}/pipes_and_filters.txt                | 0[m
+ recordings/{ => linux_recordings}/scripts_for_reusing_commands.txt     | 0[m
+ recordings/{ => linux_recordings}/working_with_files_directories.txt   | 0[m
+ 6 files changed, 0 insertions(+), 0 deletions(-)[m
+[m
+[33mcommit 7d1004c2f658f4612a6aef01311b1fff496a8b7d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:16:27 2021 +0800[m
+[m
+    restructuring folders[m
+[m
+ poem.txt                                                                                | 11 [32m+++++++++++[m[m
+ finding_stuff.txt => recordings/finding_stuff.txt                                       |  0[m
+ loops.txt => recordings/loops.txt                                                       |  0[m
+ navigating_files_and_directories.txt => recordings/navigating_files_and_directories.txt |  0[m
+ pipes_and_filters.txt => recordings/pipes_and_filters.txt                               |  0[m
+ scripts_for_reusing_commands.txt => recordings/scripts_for_reusing_commands.txt         |  0[m
+ working_with_files_directories.txt => recordings/working_with_files_directories.txt     |  0[m
+ species.txt                                                                             |  5 [32m+++++[m[m
+ 8 files changed, 16 insertions(+)[m
+[m
+[33mcommit 9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:13:20 2021 +0800[m
+[m
+    finding_stuff[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K finding_stuff.txt | 888 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K 1 file changed, 888 insertions(+)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 10:48:14 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    scripting[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K .gitignore                       |   2 [32m+[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K loops.txt                        |  41 [32m+++++++++++++++++++++++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K read_middle.sh                   |   1 [32m+[m[m
+:[K[K [KESCESC[KOO[KBB[K scripts_for_reusing_commands.txt | 279 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K 4 files changed, 321 insertions(+), 2 deletions(-)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 09:03:18 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    loops.txt[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K .gitignore                         |  3 [32m++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K loops.txt                          | 72 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K working_with_files_directories.txt | 44 [32m+++++++++++++++++++++++++++++++++++++++++++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K 3 files changed, 117 insertions(+), 2 deletions(-)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 2ff4785d0939236f2148a09738ccd2809041cde8[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 03:00:03 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    pipies and filters[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K pipes_and_filters.txt              |  99 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K working_with_files_directories.txt | 165 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K 2 files changed, 263 insertions(+), 1 deletion(-)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 73ace223580b0c9692aecd0fc63c1ddca7e03db3[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:43:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    just_checking[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K pipes_and_filters.txt              |   0[m
+:[K[K [KESCESC[KOO[KBB[K working_with_files_directories.txt | 186 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K 2 files changed, 185 insertions(+), 1 deletion(-)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:03:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    working with files and directories[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K .gitignore                           |  17 [32m++[m[31m---------------[m[m
+:[K[K [KESCESC[KOO[KBB[K navigating_files_and_directories.txt | 101 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K working_with_files_directories.txt   | 149 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K 3 files changed, 251 insertions(+), 16 deletions(-)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit fc668e9b55cc755fa20df92fd0ae5b6c364f8276[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:55:17 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    navigating files and directory[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K navigating_files_and_directories.txt | 159 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K 1 file changed, 159 insertions(+)[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 042c1308abcec06239b5b8fa39687747df16379e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriramg <43805454+muthiahsriramg@users.noreply.github.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:29:09 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K .gitignore | 18 [32m++++++++++++++++++[m[m
+:[K[K [KESCESC[KOO[KBB[K README.md  |  2 [32m++[m[m
+:[K[K [KESCESC[KOO[KBB[K 2 files changed, 20 insertions(+)[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --prettify\\\\\\[K[K[K[K[K[K[K[K[K[Kty
+[?1h=[33mcommit e69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+[33mcommit 518d9be125bc87eba5a22eebf97a0847fa70c76b[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:02:23 2021 +0800[m
+[m
+    one simple change cycle[m
+[m
+[33mcommit 73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:52:37 2021 +0800[m
+[m
+    restructuring folder -2[m
+[m
+[33mcommit 7d1004c2f658f4612a6aef01311b1fff496a8b7d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:16:27 2021 +0800[m
+[m
+    restructuring folders[m
+[m
+[33mcommit 9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:13:20 2021 +0800[m
+[m
+    finding_stuff[m
+[m
+[33mcommit 0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 10:48:14 2021 +0800[m
+[m
+    scripting[m
+[m
+[33mcommit 7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 09:03:18 2021 +0800[m
+[m
+    loops.txt[m
+[m
+[33mcommit 2ff4785d0939236f2148a09738ccd2809041cde8[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 03:00:03 2021 +0800[m
+[m
+    pipies and filters[m
+[m
+[33mcommit 73ace223580b0c9692aecd0fc63c1ddca7e03db3[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 02:43:01 2021 +0800[m
+[m
+    just_checking[m
+[m
+[33mcommit 7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:03:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    working with files and directories[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit fc668e9b55cc755fa20df92fd0ae5b6c364f8276[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:55:17 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    navigating files and directory[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 042c1308abcec06239b5b8fa39687747df16379e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriramg <43805454+muthiahsriramg@users.noreply.github.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:29:09 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty= oneline
+fatal: ambiguous argument 'oneline': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty= oneline= oneline
+fatal: invalid --pretty format: =
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty== oneline[1@ 
+fatal: ambiguous argument '==': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty == oneline[1P oneline
+fatal: ambiguous argument '=': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty = oneline[1Poneline[1P=oneline
+[?1h=[33me69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m simple git flow -2[m
+[33m518d9be125bc87eba5a22eebf97a0847fa70c76b[m one simple change cycle[m
+[33m73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m restructuring folder -2[m
+[33m7d1004c2f658f4612a6aef01311b1fff496a8b7d[m restructuring folders[m
+[33m9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m finding_stuff[m
+[33m0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m scripting[m
+[33m7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m loops.txt[m
+[33m2ff4785d0939236f2148a09738ccd2809041cde8[m pipies and filters[m
+[33m73ace223580b0c9692aecd0fc63c1ddca7e03db3[m just_checking[m
+[33m7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m working with files and directories[m
+[33mfc668e9b55cc755fa20df92fd0ae5b6c364f8276[m navigating files and directory[m
+[33m042c1308abcec06239b5b8fa39687747df16379e[m Initial commit[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty=oneline -n 2
+[?1h=[33me69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m simple git flow -2[m
+[33m518d9be125bc87eba5a22eebf97a0847fa70c76b[m one simple change cycle[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty=oneline -n 2[K5
+[?1h=[33me69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m simple git flow -2[m
+[33m518d9be125bc87eba5a22eebf97a0847fa70c76b[m one simple change cycle[m
+[33m73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m restructuring folder -2[m
+[33m7d1004c2f658f4612a6aef01311b1fff496a8b7d[m restructuring folders[m
+[33m9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m finding_stuff[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ nano[K[K[K[Knano[K[K[K[Knano[K[K[K[Kcd[K[Knano ..//[K[K[K[K[K[K[K[K[Kls ../
+[0m[01;34mgit_recordings[0m  [01;34mlinux_recordings[0m
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ ls ../..
+poem.txt  README.md  read_middle.sh  [0m[01;34mrecordings[0m  species.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ nano /[K../../Re[KEADME.md 
+[?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                  ../../README.md                                                                                            [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[2d[39;49m[36m# ta_mle_asg_1point1[3d[39m(B[mta_mle_asg_1point1[5d1) linux learning recording[6d2) git learning recording[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[6;26H[?12l[?25h[?25l[1;194H(B[0;7mModified(B[m[6;26Hs[?12l[?25h[?25l[A[?12l[?25h[?25lg[?12l[?25h[?25ls[?12l[?25h[?25l[54d(B[0;7mSave modified buffer?                                                                                                                                                                                      [55;1H Y(B[m Yes[K[56d(B[0;7m N(B[m No  [56;18H(B[0;7mC(B[m Cancel[K[54;23H[?12l[?25h[?25l[55d(B[0;7m^G(B[m Get Help[55;51H(B[0;7mM-D(B[m DOS Format[55;101H(B[0;7mM-A(B[m Append[55;151H(B[0;7mM-B(B[m Backup File[56d(B[0;7m^C(B[m Cancel[17G         [56;51H(B[0;7mM-M(B[m Mac Format[56;101H(B[0;7mM-P(B[m Prepend[56;151H(B[0;7m^T(B[m To Files[54d(B[0;7mFile Name to Write: ../../README.md(B[m[54;36H[?12l[?25h[?25l[54;94H[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[54;94H(B[0;7m[ Wrote 6 lines ](B[m[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #fo[K[Kamending a commit
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ got[K[Kit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git add ../git_recordings/Re[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K../README.md 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git add ../../README.md status[K
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   ../../README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git commit --amend
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                  /home/sriram/DS/ta_mle/github_recordings/ta_mle_asg_1point1/.git/COMMIT_EDITMSG                                                            [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[2d[39;49m(B[msimple git flow -2[4d[36m# Please enter the commit message for your changes. Lines starting[5d# with '#' will be ignored, and an empty message aborts the commit.[6d#[7d# Date:      Mon Feb 22 13:14:06 2021 +0800[8d#[9d# On branch main[10d# Your branch is up to date with 'origin/main'.[11d#[12d# Changes to be committed:[13d#       modified:   ../../README.md[14d#       modified:   one_simple_push_cycle[15d#[16d# Untracked files:[17d#       git_recording_part2.txt[18d#[2d[39m(B[m[?12l[?25h[?25ls[?12l[?25h[?25li[?12l[?25h[?25lm[?12l[?25h[?25lp[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25lg[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25lw[?12l[?25h[?25l [?12l[?25h[?25l-[?12l[?25h[?25l2[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[A[?12l[?25h[?25l[2;19H[?12l[?25h[?25l[1;194H(B[0;7mModified(B[m[2;20H[?12l[?25h[?25l[54d(B[0;7mSave modified buffer?                                                                                                                                                                                      [55;1H Y(B[m Yes[K[56d(B[0;7m N(B[m No  [56;18H(B[0;7mC(B[m Cancel[K[54;23H[?12l[?25h[?25l[55d(B[0;7m^G(B[m Get Help[55;51H(B[0;7mM-D(B[m DOS Format[55;101H(B[0;7mM-A(B[m Append[55;151H(B[0;7mM-B(B[m Backup File[56d(B[0;7m^C(B[m Cancel[17G         [56;51H(B[0;7mM-M(B[m Mac Format[56;101H(B[0;7mM-P(B[m Prepend[56;151H(B[0;7m^T(B[m To Files[54d(B[0;7mFile Name to Write: /home/sriram/DS/ta_mle/github_recordings/ta_mle_asg_1point1/.git/COMMIT_EDITMSG(B[m[54;100H[?12l[?25h[?25l[94G[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[54;93H(B[0;7m[ Wrote 17 lines ](B[m[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l[K[main ce35bf1] simple git flow -2
+ Date: Mon Feb 22 13:14:06 2021 +0800
+ 2 files changed, 112 insertions(+), 3 deletions(-)
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git commit --amend[8Pstatusadd ../../README.md status[K#amending a commitnano ../../README.md [13Pls ../..[K[K[K[K[K[K[K[Kgit push
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+ [31m! [rejected]       [m main -> main (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/muthiahsriramg/ta_mle_asg_1point1.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git pull
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                    /home/sriram/DS/ta_mle/github_recordings/ta_mle_asg_1point1/.git/MERGE_MSG                                                               [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[2d[39;49m(B[mMerge branch 'main' of https://github.com/muthiahsriramg/ta_mle_asg_1point1 into main[3d[36m# Please enter a commit message to explain why this merge is necessary,[4d# especially if it merges an updated upstream into a topic branch.[5d#[6d# Lines starting with '#' will be ignored, and an empty message aborts[7d# the commit.[2d[39m(B[m[?12l[?25h[?25l[54d[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l[KMerge made by the 'recursive' strategy.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git pullsh
+Enumerating objects: 8, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 469 bytes | 469.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), completed with 2 local objects.[K
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+   e69cab7..8072b0d  main -> main
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #un[K[K[Kgit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git add .
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git add .status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   git_recording_part2.txt[m
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #unstaging a file
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git t[Krestore =[K--stagd[Ked git_recording_part2.txt
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git restore --staged git_recording_part2.txt[27P#unstaging a file[7Pgit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ nano ..//[K../README.md 
+[?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                  ../../README.md                                                                                            [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[2d[39;49m[36m# ta_mle_asg_1point1[3d[39m(B[mta_mle_asg_1point1[5d1) linux learning recordings[6d2) git learning recordings[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[1;194H(B[0;7mModified(B[m[8dc[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25lg[?12l[?25h[?25le[?12l[?25h[?25ls[?12l[?25h[?25l[54d(B[0;7mSave modified buffer?                                                                                                                                                                                      [55;1H Y(B[m Yes[K[56d(B[0;7m N(B[m No  [56;18H(B[0;7mC(B[m Cancel[K[54;23H[?12l[?25h[?25l[?12l[?25h[?25l[55d(B[0;7m^G(B[m Get Help[55;51H(B[0;7mM-D(B[m DOS Format[55;101H(B[0;7mM-A(B[m Append[55;151H(B[0;7mM-B(B[m Backup File[56d(B[0;7m^C(B[m Cancel[17G         [56;51H(B[0;7mM-M(B[m Mac Format[56;101H(B[0;7mM-P(B[m Prepend[56;151H(B[0;7m^T(B[m To Files[54d(B[0;7mFile Name to Write: ../../README.md(B[m[54;36H[?12l[?25h[?25l[54;94H[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[54;94H(B[0;7m[ Wrote 7 lines ](B[m[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ nano ../../README.md [11Pgit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git statu[K[K[K[K[K[K[K[K[K#unmodiifu[Kying the[K[K[K[K a modified file
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git e[Krestore ../../README.md
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git restore ../../README.md#unmodiifying a modified file[19Pgit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_recording_part2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ nano ../../README.md 
+[?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                  ../../README.md                                                                                            [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[2d[39;49m[36m# ta_mle_asg_1point1[3d[39m(B[mta_mle_asg_1point1[5d1) linux learning recordings[6d2) git learning recordings[2d[?12l[?25h[?25l[54d[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #[K
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #working wi[K[K[K[K[K[K[K[K[K[K[K##working with remotes
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git remov[Kte
+origin
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git remote -v
+origin	https://github.com/muthiahsriramg/ta_mle_asg_1point1.git (fetch)
+origin	https://github.com/muthiahsriramg/ta_mle_asg_1point1.git (push)
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag
+[?1h=[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ ls
+git_recording_part2.txt  one_simple_push_cycle
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a c[Kv0.0 -m "version0,[K0[K"[1P[1P
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a v0 -m "version0"ls[Kgit tag
+[?1h=v0[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git show v0
+[?1h=[33mtag v0[m[m
+Tagger: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:44:30 2021 +0800[m
+[m
+version0[m
+[m
+[33mcommit 8072b0dc4d21e5b24554d7811f21e40226cf923c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Merge: ce35bf1 e69cab7[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:36:14 2021 +0800[m
+[m
+    Merge branch 'main' of https://github.com/muthiahsriramg/ta_mle_asg_1point1 into main[m
+[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log 
+[?1h=[33mcommit 8072b0dc4d21e5b24554d7811f21e40226cf923c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Merge: ce35bf1 e69cab7[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:36:14 2021 +0800[m
+[m
+    Merge branch 'main' of https://github.com/muthiahsriramg/ta_mle_asg_1point1 into main[m
+[m
+[33mcommit ce35bf1bb124c61c14fa47427eb535752cb69ced[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+[33mcommit e69cab70b4964bdb2c6e02a383e8edd18cce3e99[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:14:06 2021 +0800[m
+[m
+    simple git flow -2[m
+[m
+[33mcommit 518d9be125bc87eba5a22eebf97a0847fa70c76b[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:02:23 2021 +0800[m
+[m
+    one simple change cycle[m
+[m
+[33mcommit 73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m[m
+Author: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:52:37 2021 +0800[m
+[m
+    restructuring folder -2[m
+[m
+[33mcommit 7d1004c2f658f4612a6aef01311b1fff496a8b7d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:16:27 2021 +0800[m
+[m
+    restructuring folders[m
+[m
+[33mcommit 9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:13:20 2021 +0800[m
+[m
+    finding_stuff[m
+[m
+[33mcommit 0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 10:48:14 2021 +0800[m
+[m
+    scripting[m
+[m
+[33mcommit 7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 09:03:18 2021 +0800[m
+[m
+    loops.txt[m
+[m
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K[33mcommit 2ff4785d0939236f2148a09738ccd2809041cde8[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 03:00:03 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    pipies and filters[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 73ace223580b0c9692aecd0fc63c1ddca7e03db3[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:43:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    just_checking[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 02:03:01 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    working with files and directories[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit fc668e9b55cc755fa20df92fd0ae5b6c364f8276[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriram <muthiahsriram@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:55:17 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    navigating files and directory[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 042c1308abcec06239b5b8fa39687747df16379e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: muthiahsriramg <43805454+muthiahsriramg@users.noreply.github.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Feb 22 00:29:09 2021 +0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty =[K[K=oneline
+[?1h=[33m8072b0dc4d21e5b24554d7811f21e40226cf923c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/muthiahsriramg/ta_mle_asg_1point1 into main[m
+[33mce35bf1bb124c61c14fa47427eb535752cb69ced[m simple git flow -2[m
+[33me69cab70b4964bdb2c6e02a383e8edd18cce3e99[m simple git flow -2[m
+[33m518d9be125bc87eba5a22eebf97a0847fa70c76b[m one simple change cycle[m
+[33m73d0a7a57212fe37a751bbc01363e4fbb5c924b3[m restructuring folder -2[m
+[33m7d1004c2f658f4612a6aef01311b1fff496a8b7d[m restructuring folders[m
+[33m9a98c8b84f7c04aa0e2209d3d072b0ed3649d3a4[m finding_stuff[m
+[33m0de86fb2e76e9038ad362f8b9ff3a1da663dce1d[m scripting[m
+[33m7c9c4ace00f4b30100a6fd27de182405d9b2d58b[m loops.txt[m
+[33m2ff4785d0939236f2148a09738ccd2809041cde8[m pipies and filters[m
+[33m73ace223580b0c9692aecd0fc63c1ddca7e03db3[m just_checking[m
+[33m7012e99d3f30e4e0259c62a4512ea06fbb8b5ae5[m working with files and directories[m
+[33mfc668e9b55cc755fa20df92fd0ae5b6c364f8276[m navigating files and directory[m
+[33m042c1308abcec06239b5b8fa39687747df16379e[m Initial commit[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git log --pretty=oneline[K#tagging later
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a ""[Kup[K[KV_minus_1_upto_linux" a8b7s[Kd6a8b7d[C[C[C[C[C
+fatal: Failed to resolve '6a8b7d' as a valid ref.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a "V_minus_1_upto_linux" 6a8b7d"6a8b7d[C[C[C[C[C[C"
+fatal: Failed to resolve '6a8b7d' as a valid ref.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a "V_minus_1_upto_linux" "6a8b7d"96a8b7d"
+fatal: Failed to resolve '96a8b7d' as a valid ref.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a "V_minus_1_upto_linux" "96a8b7d"[K[1P96a8b7d[1P 96a8b7d[1P
+fatal: Failed to resolve '96a8b7d' as a valid ref.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a V_minus_1_upto_linux 96a8b7d[1P6a8b7d
+fatal: Failed to resolve '6a8b7d' as a valid ref.
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tag -a V_minus_1_upto_linux 6a8b7d[K[K[K[K[K[K7d1004
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;95H(B[0;7m[ Reading... ](B[m[54;94H(B[0;7m[ Read 5 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                   /home/sriram/DS/ta_mle/github_recordings/ta_mle_asg_1point1/.git/TAG_EDITMSG                                                              [1;202H(B[m[55d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[55;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[55;177H(B[0;7m^◀(B[m Prev Word[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[56;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[56;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[54d[3d[39;49m[36m#[4d# Write a message for tag:[5d#   V_minus_1_upto_linux[6d# Lines starting with '#' will be ignored.[2d[39m(B[m[?12l[?25h[?25l[1;194H(B[0;7mModified(B[m[2du[?12l[?25h[?25lp[?12l[?25h[?25lt[?12l[?25h[?25lo[?12l[?25h[?25l [?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ln[?12l[?25h[?25li[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25li[?12l[?25h[?25ln[?12l[?25h[?25lu[?12l[?25h[?25lx[?12l[?25h[?25l [?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25lc[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25ld[?12l[?25h[?25li[?12l[?25h[?25ln[?12l[?25h[?25lg[54d[K[2;21H[?12l[?25h[?25ls[?12l[?25h[?25l[54d(B[0;7mSave modified buffer?                                                                                                                                                                                      [55;1H Y(B[m Yes[K[56d(B[0;7m N(B[m No  [56;18H(B[0;7mC(B[m Cancel[K[54;23H[?12l[?25h[?25l[55d(B[0;7m^G(B[m Get Help[55;51H(B[0;7mM-D(B[m DOS Format[55;101H(B[0;7mM-A(B[m Append[55;151H(B[0;7mM-B(B[m Backup File[56d(B[0;7m^C(B[m Cancel[17G         [56;51H(B[0;7mM-M(B[m Mac Format[56;101H(B[0;7mM-P(B[m Prepend[56;151H(B[0;7m^T(B[m To Files[54d(B[0;7mFile Name to Write: /home/sriram/DS/ta_mle/github_recordings/ta_mle_asg_1point1/.git/TAG_EDITMSG(B[m[54;97H[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[54;94H(B[0;7m[ Wrote 5 lines ](B[m[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l[K(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tags
+git: 'tags' is not a git command. See 'git --help'.
+
+The most similar commands are
+	stage
+	tag
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git tags[K
+[?1h=V_minus_1_upto_linux[m
+v0[m
+[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git show V_minus_1_upto_linux 
+[?1h=[33mtag V_minus_1_upto_linux[m[m
+Tagger: muthiahsriram <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 13:49:51 2021 +0800[m
+[m
+upto linux recordings[m
+[m
+[33mcommit 7d1004c2f658f4612a6aef01311b1fff496a8b7d[m[33m ([m[1;33mtag: V_minus_1_upto_linux[m[33m)[m[m
+Author: muthiah.sriram@tigeranalytics.com <muthiahsriram@gmail.com>[m
+Date:   Mon Feb 22 11:16:27 2021 +0800[m
+[m
+    restructuring folders[m
+[m
+[1mdiff --git a/poem.txt b/poem.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..0c5e45c[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/poem.txt[m[m
+[36m@@ -0,0 +1,11 @@[m[m
+[32m+[m[32mThe Tao that is seen[m[m
+[32m+[m[32mIs not the true Tao, until[m[m
+[32m+[m[32mYou bring fresh toner.[m[m
+[32m+[m[m
+[32m+[m[32mWith searching comes loss[m[m
+[32m+[m[32mand the presence of absence:[m[m
+[32m+[m[32m"My Thesis" not found.[m[m
+[32m+[m[m
+[32m+[m[32mYesterday it worked[m[m
+[32m+[m[32mToday it is not working[m[m
+[32m+[m[32mSoftware is like that.[m[m
+[1mdiff --git a/finding_stuff.txt b/recordings/finding_stuff.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from finding_stuff.txt[m[m
+[1mrename to recordings/finding_stuff.txt[m[m
+[1mdiff --git a/loops.txt b/recordings/loops.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from loops.txt[m[m
+[1mrename to recordings/loops.txt[m[m
+[1mdiff --git a/navigating_files_and_directories.txt b/recordings/navigating_files_and_directories.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from navigating_files_and_directories.txt[m[m
+[1mrename to recordings/navigating_files_and_directories.txt[m[m
+[1mdiff --git a/pipes_and_filters.txt b/recordings/pipes_and_filters.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from pipes_and_filters.txt[m[m
+[1mrename to recordings/pipes_and_filters.txt[m[m
+[1mdiff --git a/scripts_for_reusing_commands.txt b/recordings/scripts_for_reusing_commands.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from scripts_for_reusing_commands.txt[m[m
+[1mrename to recordings/scripts_for_reusing_commands.txt[m[m
+[1mdiff --git a/working_with_files_directories.txt b/recordings/working_with_files_directories.txt[m[m
+[1msimilarity index 100%[m[m
+[1mrename from working_with_files_directories.txt[m[m
+[1mrename to recordings/working_with_files_directories.txt[m[m
+[1mdiff --git a/species.txt b/species.txt[m[m
+[1mnew file mode 100644[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mindex 0000000..1d6e3fd[m[m
+:[K[K [KESCESC[KOO[KBB[K[1m--- /dev/null[m[m
+:[K[K [KESCESC[KOO[KBB[K[1m+++ b/species.txt[m[m
+:[K[K [KESCESC[KOO[KBB[K[36m@@ -0,0 +1,5 @@[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m2013-11-05,deer,5[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m2013-11-05,rabbit,22[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m2013-11-05,raccoon,7[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m2013-11-06,rabbit,19[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m2013-11-06,deer,2[m[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ #pushon[K[King tags to remote
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ 
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git push p[Korigin --tags
+Enumerating objects: 2, done.
+Counting objects:  50% (1/2)Counting objects: 100% (2/2)Counting objects: 100% (2/2), done.
+Delta compression using up to 12 threads
+Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
+Writing objects:  50% (1/2)Writing objects: 100% (2/2)Writing objects: 100% (2/2), 304 bytes | 304.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0)
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+ * [new tag]         V_minus_1_upto_linux -> V_minus_1_upto_linux
+ * [new tag]         v0 -> v0
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ exit
+exit
+
+Script done on 2021-02-22 15:48:55+08:00 [COMMAND_EXIT_CODE="0"]
