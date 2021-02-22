@@ -6,4 +6,7 @@ ta_mle_asg_1point1
 	i)   simple overall git flow
 	ii)  git log, git diff, remote work flow, tags
 	iii) git branching
-3) Just adding. will remove it later
+
+3) issue02
+
+
