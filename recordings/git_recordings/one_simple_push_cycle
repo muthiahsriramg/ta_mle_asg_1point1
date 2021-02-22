@@ -50,4 +50,113 @@ Untracked files:
 	[31m./[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ git add .
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ gits tatus
+
+Command 'gits' not found, did you mean:
+
+  command 'gitls' from snap gitls (1.0.0)
+  command 'gitg' from deb gitg (3.32.1-1)
+  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)
+  command 'git' from deb git (1:2.25.1-1ubuntu3)
+  command 'gist' from deb yorick (2.2.04+dfsg1-10)
+  command 'gitps' from deb gnuit (4.9.5-3build3)
+  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ gits tatus[K[K[K[K[Kstatus
+
+Command 'gits' not found, did you mean:
+
+  command 'gitls' from snap gitls (1.0.0)
+  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)
+  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)
+  command 'git' from deb git (1:2.25.1-1ubuntu3)
+  command 'gitps' from deb gnuit (4.9.5-3build3)
+  command 'gist' from deb yorick (2.2.04+dfsg1-10)
+  command 'gitg' from deb gitg (3.32.1-1)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ gits status[1P status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   one_simple_push_cycle[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../.gitignore[m
+	[31mmodified:   ../../README.md[m
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1/recordings/git_recordings[00m$ cd ../,[K..
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ cd ../..git statuss status[1Ptatusstatus
+
+Command 'gits' not found, did you mean:
+
+  command 'gitls' from snap gitls (1.0.0)
+  command 'git' from deb git (1:2.25.1-1ubuntu3)
+  command 'gitk' from deb gitk (1:2.25.1-1ubuntu3)
+  command 'gitps' from deb gnuit (4.9.5-3build3)
+  command 'gitso' from deb gitso (0.6.2+svn158+dfsg-3)
+  command 'gitg' from deb gitg (3.32.1-1)
+  command 'gist' from deb yorick (2.2.04+dfsg1-10)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ gits status[3Pcd ../..git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   recordings/git_recordings/one_simple_push_cycle[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .gitignore[m
+	[31mmodified:   README.md[m
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git statuss status[3Pcd ../..git statuss status[1Ptatus[1P add .
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   .gitignore[m
+	[32mmodified:   README.md[m
+	[32mnew file:   recordings/git_recordings/one_simple_push_cycle[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   recordings/git_recordings/one_simple_push_cycle[m
+
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git[K[K[Kgti co[K[K[K[K[Kit commit -M [K[Km "commit[K[K[K[K[K[Kone simple change cycle"
+[main 518d9be] one simple change cycle
+ 3 files changed, 60 insertions(+)
+ create mode 100644 recordings/git_recordings/one_simple_push_cycle
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git push
+fatal: unable to access 'https://github.com/muthiahsriramg/ta_mle_asg_1point1.git/': server certificate verification failed. CAfile: none CRLfile: none
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git push origin
+fatal: unable to access 'https://github.com/muthiahsriramg/ta_mle_asg_1point1.git/': server certificate verification failed. CAfile: none CRLfile: none
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git push origin[Kgit push origin
+Enumerating objects: 11, done.
+Counting objects:   9% (1/11)Counting objects:  18% (2/11)Counting objects:  27% (3/11)Counting objects:  36% (4/11)Counting objects:  45% (5/11)Counting objects:  54% (6/11)Counting objects:  63% (7/11)Counting objects:  72% (8/11)Counting objects:  81% (9/11)Counting objects:  90% (10/11)Counting objects: 100% (11/11)Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  71% (5/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 2.44 KiB | 2.44 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/muthiahsriramg/ta_mle_asg_1point1.git
+   73d0a7a..518d9be  main -> main
+(base) ]0;sriram@sriram-G7-7590: ~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[01;32msriram@sriram-G7-7590[00m:[01;34m~/DS/ta_mle/github_recordings/ta_mle_asg_1point1[00m$ git[K[K[Kexit
+exit
+
+Script done on 2021-02-22 13:13:06+08:00 [COMMAND_EXIT_CODE="0"]
